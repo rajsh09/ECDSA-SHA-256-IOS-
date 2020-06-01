@@ -6,11 +6,11 @@ Get supported public-private key pair..
 
 https://kjur.github.io/jsrsasign/sample/sample-ecdsa.html
 
-Convert in Hexa decimal using 
+Convert in Hex decimal using 
 
 https://base64.guru/converter/encode/hex
 
-Make sure to add public key header "3059301306072a8648ce3d020106082a8648ce3d030107034200" 52 bit header size for spec256r1
+Make sure to add public key header "3059301306072a8648ce3d020106082a8648ce3d030107034200" (52 bit header size for spec256r1)
 
 Public key wihtout header: 
 
